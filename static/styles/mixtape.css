@@ -1,0 +1,13 @@
+.container {
+    margin: auto;
+    width: 80%;
+}
+
+.cassette-image {
+    float: left;
+    width: 600px;
+}
+
+.spotify-embed {
+    float: left;
+}
